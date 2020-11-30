@@ -1,6 +1,6 @@
 # Welcome to My projects page
 
-On this website i will also mention about upcoming projects and where you can find them and where you can sign up to help if the option is avalible. 
+On this website I will mention about upcoming projects and where you can find them and where you can sign up to help if the option is avalible for that project. 
 
 
 ## Under development

@@ -1,6 +1,6 @@
 ## Welcome to My projects page
 
-Here is where i will upload Photos and or vidoes of projects that i have been recently working on
+On this website i will also mention about upcoming projects and where you can find them and where you can sign up to help if the option is avalible. 
 
 <!--
 ### Markdown

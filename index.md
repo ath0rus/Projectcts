@@ -1,10 +1,15 @@
-## Welcome to My projects page
+# Welcome to My projects page
 
 On this website i will also mention about upcoming projects and where you can find them and where you can sign up to help if the option is avalible. 
 
 
-### Under development
+## Under development
 This website is still under development and will be updated in the coming weeks. The plan is to have this website running by christmas 2020
+
+## Links
+
+[Links Page](https://ath0rus.github.io)\
+[Homepage](https://ath0rus.github.io/Home)
 
 
 <!--

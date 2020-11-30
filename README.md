@@ -3,5 +3,5 @@ It appears that you have found the repo that hosts my project website. Well ther
 So here is some useful stuff
 
 ### Links
-The website for [this repo](ath0rus.github.io/Projects)/
+The website for [this repo](ath0rus.github.io/Projects)\
 My [Homepage](ath0rus.github.io/Home)

@@ -2,6 +2,9 @@
 
 On this website i will also mention about upcoming projects and where you can find them and where you can sign up to help if the option is avalible. 
 
+
+### Under development
+This website is still under development and will be updated in the coming weeks. The plan is to have this website running by chrismas 2020
 <!--
 ### Markdown
 

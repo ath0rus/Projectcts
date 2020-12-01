@@ -8,7 +8,7 @@ I Have rencently discorvered that making websites like this one is something tha
 
 ![Backend code](/photos/Projects-backend-code.jpg)
 
-Click on the photo to view it larger.
+Click [here](https://github.com/ath0rus/Projects/blob/gh-pages/photos/Projects-backend-code.jpg) to view it larger.
 
 ## Under development
 This website is still under development and will be updated in the coming weeks. The plan is to have this website running by christmas 2020
